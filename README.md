@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IBR-41379
 - 👀 I’m interested in programming/coding
-- 🌱 I’m know python and C
-- 💞️ I am currently learning C++
-- 💞️ I’m looking to collaborate on any python related projects
+- 🌱 I’m know python, C and C++
+- 💞️ I am currently learning Java
+- 💞️ I’m looking to collaborate on any ml projects
 - 📫 How to reach me sayandeep369@gmail.com(email) @IronBreaker03(Telegram) me
  - 👀 My currrent website: https://ibr-41379.github.io/CV/
 
