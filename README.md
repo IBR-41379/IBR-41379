@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @IBR-41379
-- 👀 I’m interested in programming/coding
-- 🌱 I’m know python, C , Java and C++
-- 💞️ I am currently learning Machine Learning
-- 💞️ I’m looking to collaborate on any ml projects
-- 📫 How to reach me sayandeep369@gmail.com(email) @IronBreaker03(Telegram) me
- - 👀 My currrent website: https://ibr-41379.github.io/CV/
+### 👋 Hi, I'm Sayandeep Dey (@IBR-41379)
+
+- 🤖 Passionate about Machine Learning, Generative AI, and NLP  
+- 💻 I code in Python, C, and C++  
+- 🛠️ Actively building tools that solve real-world problems using AI  
+- 📚 Currently working on a AI and LLM Projects
+- 🌐 Check out my portfolio: [https://ibr-41379.github.io/CV](https://ibr-41379.github.io/CV)  
+- 💌 Reach me at: sayandeep369@gmail.com | Telegram: @IronBreaker03  
 
 <!---
 IBR-41379/IBR-41379 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
