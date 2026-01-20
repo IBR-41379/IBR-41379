@@ -36,22 +36,23 @@ text, tspan {white-space: pre;}
 </text>
 
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30" class="header">sayandeep@workspace</tspan>
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux (Ubuntu), Windows 11</tspan>
+<tspan x="390" y="30" class="header">sayandeep@workspace</tspan> ---------------------------------------------------
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux (Arch), Windows 11</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Neural-Network-Node-03</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">GenAI / NLP Architect</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code, PyCharm, Jupyter</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code, AntiGravity/tspan>
 <tspan x="390" y="130" class="cc">. </tspan>
 <tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Python, C, C++</tspan>
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Frameworks</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">PyTorch, TensorFlow, LangChain</tspan>
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Expertise</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Machine Learning, LLMs, NLP</tspan>
 <tspan x="390" y="210" class="cc">. </tspan>
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Current_Goal</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Building real-world AI tools</tspan>
-<tspan x="390" y="270" class="header">- Contact</tspan>
+<tspan x="390" y="270" class="header">- Contact</tspan> --------------------------------------------------------
 <tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">sayandeep369@gmail.com</tspan>
 <tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Telegram</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">@IronBreaker03</tspan>
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">@IBR-41379</tspan>
-<tspan x="390" y="370" class="header">- GitHub Stats</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Actively Building</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">ironbreaker.</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">@IBR-41379</tspan>
+<tspan x="390" y="390" class="header">- Interests </tspan> ------------------------------------------
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">War Thunder; Anime; Linux ricing; Daily automation</tspan>
 </text>
 </svg>
