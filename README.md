@@ -1,11 +1,6 @@
-### 👋 Hi, I'm Sayandeep Dey (@IBR-41379)
-
-- 🤖 Passionate about Machine Learning, Generative AI, and NLP  
-- 💻 I code in Python, C, and C++  
-- 🛠️ Actively building tools that solve real-world problems using AI  
-- 📚 Currently working on a AI and LLM Projects
-- 💌 Reach me at: sayandeep369@gmail.com | Telegram: @IronBreaker03  
-
-<!---
-IBR-41379/IBR-41379 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <img alt="Sayandeep's Profile" src="light_mode.svg">
+  </picture>
+</div>
