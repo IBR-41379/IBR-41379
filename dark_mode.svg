@@ -1,10 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" width="985px" height="450px" font-size="16px">
 <style>
-.key {fill: #7aa2f7;}
-.value {fill: #c9d1d9;}
-.cc {fill: #444c56;}
-.header {fill: #bb9af7; font-weight: bold;}
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#0d1117" rx="15"/>
@@ -36,7 +44,7 @@ text, tspan {white-space: pre;}
 </text>
 
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30" class="header">sayandeep@workspace</tspan>
+<tspan x="390" y="30" class="header">sayandeep@workspace</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux (Arch), Windows 11</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Neural-Network-Node-03</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">GenAI / NLP Architect</tspan>
@@ -47,13 +55,13 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Expertise</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Machine Learning, LLMs, NLP</tspan>
 <tspan x="390" y="210" class="cc">. </tspan>
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Current_Goal</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Building real-world AI tools</tspan>
-<tspan x="390" y="270" class="header">- Contact</tspan>
+<tspan x="390" y="270" class="header">- Contact</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">sayandeep369@gmail.com</tspan>
 <tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Telegram</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">@IronBreaker03</tspan>
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">@IBR-41379</tspan>
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">ironbreaker.</tspan>
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">sayandeep-dey</tspan>
-<tspan x="390" y="400" class="header">- Interests </tspan> 
+<tspan x="390" y="400" class="header">- Interests </tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="420" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">War Thunder; Anime; Linux ricing</tspan>
 </text>
 </svg>
