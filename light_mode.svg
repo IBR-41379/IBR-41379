@@ -16,7 +16,8 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#7aa2f7" style="font-size: 10px;">
+<text x="15" y="30" fill="#24292f" style="font-size: 10px;">
+<tspan x="15" y="28">                     -+;;,, ,;,|g;~,,                             </tspan>
 <tspan x="15" y="40">                .::-:--------+==*++**#**++                        </tspan>
 <tspan x="15" y="52">              :::---::::--:==++-******#**++-                      </tspan>
 <tspan x="15" y="64">            -:::::--:::---:=+++++**********+=                     </tspan>
